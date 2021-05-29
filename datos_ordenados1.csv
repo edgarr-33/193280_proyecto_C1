@@ -1,0 +1,209 @@
+ID,CIUDAD,CANTIDAD,TIEMPO
+1,Arriaga,1,0.45
+1,Arriaga,2,1.3
+1,Arriaga,2,2
+1,Arriaga,4,3
+1,Arriaga,4,4
+1,Arriaga,8,5
+1,Arriaga,6,6
+1,Arriaga,1,6
+1,Arriaga,1,6.15
+1,Arriaga,1,7.3
+1,Arriaga,10,7.3
+1,Arriaga,4,2
+1,Arriaga,1,4
+1,Arriaga,3,4.3
+1,Arriaga,2,4.3
+1,Arriaga,2,5
+1,Chiapa de Corzo,1,0.15
+1,Chiapa de Corzo,1,0.25
+1,Chiapa de Corzo,1,1
+1,Chiapa de Corzo,3,1
+1,Chiapa de Corzo,4,2
+1,Chiapa de Corzo,2,3
+1,Chiapa de Corzo,2,3
+1,Chiapa de Corzo,2,3
+1,Chiapa de Corzo,5,3
+1,Chiapa de Corzo,3,4
+1,Chiapa de Corzo,2,5
+1,Chiapa de Corzo,3,5
+1,Chiapa de Corzo,1,7
+1,Chiapa de Corzo,1,14.3
+1,Chiapa de Corzo,1,8
+1,Chiapa de Corzo,9,10
+1,Cintalapa,2,1.3
+1,Cintalapa,1,2
+1,Cintalapa,1,2
+1,Cintalapa,1,2
+1,Cintalapa,1,2
+1,Cintalapa,1,2
+1,Cintalapa,2,2.1
+1,Cintalapa,1,3
+1,Cintalapa,2,3
+1,Cintalapa,4,3
+1,Cintalapa,1,3.3
+1,Cintalapa,2,4
+1,Cintalapa,3,4.2
+1,Cintalapa,4,4.3
+1,Cintalapa,1,4.3
+1,Cintalapa,2,4.3
+1,Cintalapa,2,4.5
+1,Cintalapa,2,5
+1,Cintalapa,4,5
+1,Cintalapa,1,6
+1,Cintalapa,4,8
+1,Cintalapa,4,8
+1,Cintalapa,3,8.3
+1,Cintalapa,3,8.3
+1,Cintalapa,5,10
+1,Cintalapa,3,10
+1,Cintalapa,3,10.3
+1,Cintalapa,5,10.3
+1,Cintalapa,3,11
+1,Cintalapa,1,12
+1,Cintalapa,4,15
+1,Cintalapa,5,15
+1,Cintalapa,9,18
+1,Cintalapa,5,20
+1,Cintalapa,1,1
+1,Cintalapa,10,6
+1,Cintalapa,4,6
+1,Cintalapa,3,6.3
+1,Cintalapa,4,12
+1,Comitán,1,1
+1,Comitán,4,2
+1,Comitán,1,2
+1,Comitán,3,2.3
+1,Comitán,6,3
+1,Comitán,4,3
+1,Comitán,4,3
+1,Comitán,3,5
+1,Comitán,6,5.3
+1,Comitán,3,10
+1,Las Rosas,1,1
+1,Las Rosas,3,1.3
+1,Las Rosas,2,2
+1,Las Rosas,1,2
+1,Las Rosas,4,3
+1,Las Rosas,6,3
+1,Las Rosas,2,4
+1,Las Rosas,9,4.2
+1,Las Rosas,3,5
+1,Las Rosas,2,8
+1,Las Rosas,4,10
+1,Las Rosas,4,10
+1,Las Rosas,1,14
+1,San Cristóbal de las Casas,1,1
+1,San Cristóbal de las Casas,2,2
+1,San Cristóbal de las Casas,5,3
+1,San Cristóbal de las Casas,1,3
+1,San Cristóbal de las Casas,1,4
+1,San Cristóbal de las Casas,3,6
+1,San Cristóbal de las Casas,1,7
+1,San Cristóbal de las Casas,2,12
+1,San Cristóbal de las Casas,7,15
+1,Suchiapa,1,0.15
+1,Suchiapa,1,0.3
+1,Suchiapa,1,1
+1,Suchiapa,2,2
+1,Suchiapa,1,2
+1,Suchiapa,3,3
+1,Suchiapa,1,5
+1,Suchiapa,2,5
+1,Suchiapa,5,6
+1,Suchiapa,3,6
+1,Suchiapa,7,10
+1,Suchiapa,6,12
+1,Suchiapa,1,1
+1,Suchiapa,9,9
+1,Tapachula,1,0.15
+1,Tapachula,1,3
+1,Tapachula,2,3
+1,Tapachula,4,7
+1,Tapachula,7,10
+1,Tapachula,6,14
+1,Tuxtla Gutiérrez,1,0.3
+1,Tuxtla Gutiérrez,1,1
+1,Tuxtla Gutiérrez,1,1
+1,Tuxtla Gutiérrez,1,2
+1,Tuxtla Gutiérrez,2,2
+1,Tuxtla Gutiérrez,2,2
+1,Tuxtla Gutiérrez,2,2
+1,Tuxtla Gutiérrez,3,2
+1,Tuxtla Gutiérrez,2,2
+1,Tuxtla Gutiérrez,2,2.3
+1,Tuxtla Gutiérrez,2,2.3
+1,Tuxtla Gutiérrez,1,3
+1,Tuxtla Gutiérrez,3,3.15
+1,Tuxtla Gutiérrez,4,3.3
+1,Tuxtla Gutiérrez,1,4
+1,Tuxtla Gutiérrez,6,4
+1,Tuxtla Gutiérrez,5,4
+1,Tuxtla Gutiérrez,3,4.1
+1,Tuxtla Gutiérrez,2,5
+1,Tuxtla Gutiérrez,8,6
+1,Tuxtla Gutiérrez,8,6.3
+1,Tuxtla Gutiérrez,3,7
+1,Tuxtla Gutiérrez,9,8.3
+1,Tuxtla Gutiérrez,5,10
+1,Tuxtla Gutiérrez,4,10
+1,Tuxtla Gutiérrez,1,10
+1,Tuxtla Gutiérrez,7,10
+1,Tuxtla Gutiérrez,3,12
+1,Tuxtla Gutiérrez,6,14
+1,Tuxtla Gutiérrez,6,18
+1,Tuxtla Gutiérrez,3,1
+1,Tuxtla Gutiérrez,1,1
+1,Tuxtla Gutiérrez,2,1
+1,Tuxtla Gutiérrez,3,1.3
+1,Tuxtla Gutiérrez,3,1.3
+1,Tuxtla Gutiérrez,2,1.3
+1,Tuxtla Gutiérrez,4,2
+1,Tuxtla Gutiérrez,3,2
+1,Tuxtla Gutiérrez,2,2
+1,Tuxtla Gutiérrez,7,2.3
+1,Tuxtla Gutiérrez,3,2.3
+1,Tuxtla Gutiérrez,4,2.3
+1,Tuxtla Gutiérrez,4,2.3
+1,Tuxtla Gutiérrez,3,2.3
+1,Tuxtla Gutiérrez,4,2.3
+1,Tuxtla Gutiérrez,4,2.3
+1,Tuxtla Gutiérrez,5,3
+1,Tuxtla Gutiérrez,5,3
+1,Tuxtla Gutiérrez,3,3
+1,Tuxtla Gutiérrez,5,3.3
+1,Tuxtla Gutiérrez,5,3.3
+1,Tuxtla Gutiérrez,4,3.3
+1,Tuxtla Gutiérrez,6,3.4
+1,Tuxtla Gutiérrez,2,3.45
+1,Tuxtla Gutiérrez,4,4
+1,Tuxtla Gutiérrez,4,4
+1,Tuxtla Gutiérrez,6,4.3
+1,Tuxtla Gutiérrez,7,4.3
+1,Tuxtla Gutiérrez,5,4.3
+1,Tuxtla Gutiérrez,4,4.3
+1,Tuxtla Gutiérrez,4,4.3
+1,Tuxtla Gutiérrez,6,5
+1,Tuxtla Gutiérrez,8,5
+1,Tuxtla Gutiérrez,7,5
+1,Tuxtla Gutiérrez,6,5.3
+1,Tuxtla Gutiérrez,6,5.3
+1,Tuxtla Gutiérrez,6,5.3
+1,Tuxtla Gutiérrez,5,5.3
+1,Tuxtla Gutiérrez,6,5.3
+1,Tuxtla Gutiérrez,7,5.3
+1,Tuxtla Gutiérrez,8,6
+1,Tuxtla Gutiérrez,7,6
+1,Tuxtla Gutiérrez,7,6.3
+1,Tuxtla Gutiérrez,7,7.3
+1,Tuxtla Gutiérrez,9,7.3
+1,Tuxtla Gutiérrez,10,9
+1,Villaflores,4,3.3
+1,Villaflores,6,4
+1,Villaflores,6,4
+1,Villaflores,2,5
+1,Villaflores,4,5
+1,Villaflores,3,5
+1,Villaflores,2,8
+1,Villaflores,4,8
+1,Villaflores,8,20
